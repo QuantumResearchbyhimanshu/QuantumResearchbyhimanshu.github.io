@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quantum Computing | Himanshu Sahu"
+title: "Quantum Computing  Himanshu Sahu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
